@@ -1,16 +1,36 @@
-## Hi there 👋
+#  Hi, I'm Marc Maier
 
-<!--
-**MarcMaier-QA/MarcMaier-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Aspiring QA Engineer | Test Automation | Python | Clean Code Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+-  Currently training at **Masterschool** as QA Engineer (Automation Track)
+-  Building a **QA portfolio** with test cases, reports, and automation scripts
+-  Interested in **Test Strategy**, **Security Testing**, and **Automation Frameworks**
+-  I love clean, readable, and well-structured code
+
+---
+
+##  Tech Stack
+ **Languages:** Python  
+ **Testing:** Pytest, Selenium, Postman, Jira  
+ **Tools:** Git, GitHub, VSCode, PyCharm  
+ **Other:** JSON, APIs, Test Design Techniques
+
+---
+
+##  GitHub Stats
+![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcMaier-QA&show_icons=true&theme=github_dark)
+
+---
+
+##  Current Focus
+🔹 Building my **QA portfolio**  
+🔹 Writing **clean, automated tests**  
+🔹 Preparing for the **ISTQB Foundation Level**
+
+---
+
+##  Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/marc-maier90/)
